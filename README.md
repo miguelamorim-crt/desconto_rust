@@ -84,6 +84,7 @@ Return
 versao  2:
 
 fn main() {
+        
         let preco: f64 = 200.00;
         let desconto: f64 = 100.00;
 

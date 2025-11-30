@@ -33,7 +33,9 @@ preço final
 Depois imprime o resultado formatado no console.
 
 ## 🔢 Exemplo de código
+
 fn main() {
+
         let preco: f64 = 200.00;
         let desconto: f64 = 100.00;
 
